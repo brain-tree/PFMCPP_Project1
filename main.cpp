@@ -124,13 +124,13 @@ crane.move();
 //  action 3: the crane revolves
 crane.revolve();
 //  10)
-//  Noun: saw
-//  action 1: the saw cuts
-saw.cut();
-//  action 2: the saw divides
-saw.divide();
-//  action 3: the saw emits noise
-saw.emitNoise();
+//  Noun: Parking lot
+//  action 1: the parking lot holds cars
+parkingLot.holdCars();
+//  action 2: the parking lot charges money
+parkingLot.chargeMoney();
+//  action 3: the parking lot keeps time
+parkingLot.keepTime();
 
 
 #endif
