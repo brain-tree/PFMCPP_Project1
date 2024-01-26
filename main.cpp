@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: automobile
+//  action 1: the automobile accelerates
+automobile.accelerate();
+//  action 2: the automobile brakes
+automobile.brake();
+//  action 3: the automobile idles
+automobile.idle();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: ball
+//  action 1: the ball bounces
+ball.bounce();
+//  action 2: the ball rolls
+ball.roll();
+//  action 3: the ball falls
+ball.fall();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: wrench
+//  action 1: the wrench cranks
+wrench.crank();
+//  action 2: the wrench twists
+wrench.twist();
+//  action 3: the wrench tightens
+wrench.tighten();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: pencil
+//  action 1: the pencil writes
+pencil.write();
+//  action 2: the pencil draws
+pencil.draw();
+//  action 3: the pencil erases
+pencil.erase();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: leg
+//  action 1: the leg runs 
+leg.run();
+//  action 2: the leg jumps
+leg.jump();
+//  action 3: the leg stretches
+leg.stretch();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: synthesizer
+//  action 1: the synthesizer emits sound
+synthesizer.emitSound();
+//  action 2: the synthesizer shapes tones
+synthesizer.shapeTone();
+//  action 3: the synthesizer produces noise
+synthesizer.produceNoise();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bicycle
+//  action 1: the bicycle travels
+bicycle.travel();
+//  action 2: the bicycle turns
+bicycle.turn();
+//  action 3: the bicycle stops
+bicycle.stop();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: stapler
+//  action 1: the stapler staples
+stapler.staple();
+//  action 2: the stapler gets stolen
+stapler.getStolen();
+//  action 3: the stapler gets the office burnt down
+stapler.getOfficeBurntDown();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: crane
+//  action 1: the crane lifts
+crane.lift();
+//  action 2: the crane moves
+crane.move();
+//  action 3: the crane revolves
+crane.revolve();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Parking lot
+//  action 1: the parking lot holds cars
+parkingLot.holdCars();
+//  action 2: the parking lot charges money
+parkingLot.chargeMoney();
+//  action 3: the parking lot keeps time
+parkingLot.keepTime();
 
 
 #endif
